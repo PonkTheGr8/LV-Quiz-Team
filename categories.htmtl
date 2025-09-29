@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Quiz Team Categories</title>
+
+</head>
+
+<body>
+
+<img src="lvlogo.png">
+<h1>Categories</h1>
+<h2>Round 1</h2>
+<p>American Literature</p>
+<p>Mathematics</p>
+<p>World History</p>
+<p>Fine Arts</p>
+<p>Life Science</p>
+<h2>Round 2</h2>
+<p>World Literature</p>
+<p>U.S. Government/Economics</p>
+<p>Physical Science</p>
+<p>Geography</p>
+<p>U.S. History</p>
+</body>
+
+</html>
